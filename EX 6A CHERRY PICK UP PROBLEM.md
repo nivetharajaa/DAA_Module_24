@@ -40,9 +40,9 @@ When passing through a path cell containing a cherry, you pick it up, and the ce
 
 To implement the program for Cherry pickup problem.
 
-Developed by: Dhivyapriya R
+Developed by: Nivetha A
 
-Register Number: 212222230032 
+Register Number: 212222230101
 
 ```
 class Solution:
